@@ -11,7 +11,7 @@
 
 
 ## Açıklama
-**Bir hedef web sitesi veya ip adresine giriş için sözlük saldırısı yapan bir script.**
+**Bir web sitesi veya ip adresine giriş için sözlük saldırısı yapan bir script.**
 
 <hr>
 
