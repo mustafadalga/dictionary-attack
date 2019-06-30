@@ -37,13 +37,13 @@ python -m pip install -r .\requirements.txt
 
 #### Kullanım
 
-* Linux için kurulum
+* Linux için kullanım
 ```
 python3 dictionaryAtack.py
 ```
 
 
-* Windows için kurulum
+* Windows için kullanım
 ```
 python dictionaryAtack.py
 ```
