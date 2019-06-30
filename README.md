@@ -18,3 +18,36 @@
  Script [metaspoitable] test ortamı üzerinden test edilmiştir. 
 
 [metaspoitable]: https://metasploit.help.rapid7.com/docs/metasploitable-2
+
+
+
+#### Kurulacak modüller
+
+* Linux için kurulum
+```
+sudo pip install -r requirements.txt
+```
+
+
+* Windows için kurulum
+```
+python -m pip install -r .\requirements.txt
+```
+
+
+#### Kullanım
+
+* Linux için kurulum
+```
+python3 dictionaryAtack.py
+```
+
+
+* Windows için kurulum
+```
+python dictionaryAtack.py
+```
+
+
+
+
