@@ -14,6 +14,7 @@
 **Bir hedef web sitesi veya ip adresine giriş için sözlük saldırısı yapan bir script.**
 
 <hr>
-Script [metaspoitable 2](https://metasploit.help.rapid7.com/docs/metasploitable-2)  test ortamı üzerinden test edilmiştir.
- 
 
+ Script [metaspoitable] test ortamı üzerinden test edilmiştir. 
+
+[metaspoitable]: https://metasploit.help.rapid7.com/docs/metasploitable-2
